@@ -12,7 +12,8 @@ header {
 }
 
 .principale {
-  align : left;
+  text-align: left;
+  color: #222222;
   width : 80em;
 }
 
@@ -32,4 +33,18 @@ header {
   padding: 20px;
   margin: 20px;
   width: 80%;
+}
+
+.trois {
+  box-sizing: border-box;
+  float: left;
+  width: 80em;
+}
+
+p {
+  font-family: fantasy;
+}
+
+h3 {
+  font-family: verdana;
 }
