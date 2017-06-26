@@ -4,10 +4,16 @@
 
 h2 {
   float: right;
+  color: red;
 }
 
 header {
-  background-color: grey;
+  background-color: gold;
+}
+
+.principale {
+  align : left;
+  width : 80em;
 }
 
 .une {
