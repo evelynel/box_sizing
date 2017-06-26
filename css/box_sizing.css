@@ -1,3 +1,15 @@
+.logo img {
+  width: 10%;
+}
+
+h2 {
+  float: right;
+}
+
+header {
+  background-color: grey;
+}
+
 .une {
   box-sizing: content-box;
   float: left;
